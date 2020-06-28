@@ -16,7 +16,7 @@ h1{
 }
 
 hr{
-  background-color: #F05F44;
+  background-color: #482ff7;
   border-width: 3px;
   max-width: 65px;
 }
@@ -28,14 +28,16 @@ hr{
 }
 
 .btn-primary{
-  background-color: #F05F44;
-  border-color:  #F05F44;
+  /* background-color: #F05F44; */
+  background-image: linear-gradient(to right, #43dde6,#482ff7);
+  border-color:  #482ff7;
 }
 
 .btn-primary:hover{
-  background-color: #ee4b08;
-  border-color: #ee4b08;
-  border-width: 4px;
+  /* background-color: #ee4b08; */
+  background-image: linear-gradient(to right,#482ff7,#43dde6);
+  border-color:  #482ff7;
+  border-width: 2px;
 }
 
 .btn-xl{
