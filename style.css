@@ -30,13 +30,13 @@ hr{
 .btn-primary{
   /* background-color: #F05F44; */
   background-image: linear-gradient(to right, #43dde6,#482ff7);
-  border-color:  #482ff7;
+  
 }
 
 .btn-primary:hover{
   /* background-color: #ee4b08; */
   background-image: linear-gradient(to right,#482ff7,#43dde6);
-  border-color:  #482ff7;
+  border-color:  #ffffff;
   border-width: 2px;
 }
 
